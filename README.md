@@ -9,7 +9,6 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxSc
 
 ###### cap-jmes
 ```
-getgenv().Theme = "Dark" --// Light, Dark, Aqua, Mocha, Jester
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/cap-jmes.lua"))()
 ```
 
