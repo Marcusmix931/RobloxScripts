@@ -1,6 +1,6 @@
 # RobloxScripts
 Scripts that I find useful for Roblox.
-You can obtain keys from [Discord](https://discord.gg/kwsK36GA5F).
+Check out my [Discord](https://discord.gg/kwsK36GA5F).
 
 ###### psx-jmes
 ```
